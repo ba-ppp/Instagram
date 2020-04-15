@@ -1,0 +1,39 @@
+.compo1-head{
+    margin-left: 270px;
+    border: 1px solid #e2dede;
+    height: 50px;
+    width: 600px;
+    position: relative;
+    top: 80px;
+    display: flex;
+    background-color: white;
+    
+}
+.avt{
+    border: 1px solid #ececec;
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+    border-radius: 15px;
+    margin-left: 15px;
+    background-image: url(/images/Ngoc-Trinh-avt.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.compo1-name{
+    margin-left: 12px;
+    margin-top: 10px;
+}
+.more{
+    margin-left: 420px;
+    margin-top: 10px;
+}
+
+.compo1-body{
+    width: 600px;
+    height: 600px;
+    background-image: url(/images/Ngoc-Trinh.jpg);
+    margin-left: 270px;
+    border: 1px solid #e2dede;
+    margin-top: 40px;
+}

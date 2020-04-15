@@ -1,4 +1,4 @@
-.compo1-head{
+.compo-head{
     margin-left: 270px;
     border: 1px solid #e2dede;
     height: 50px;
@@ -20,20 +20,71 @@
     background-position: center;
     background-size: cover;
 }
-.compo1-name{
+.compo-name{
     margin-left: 12px;
     margin-top: 10px;
+}
+
+.name-id{
+    color: black;
 }
 .more{
     margin-left: 420px;
     margin-top: 10px;
 }
 
-.compo1-body{
+.compo-body{
     width: 600px;
     height: 600px;
     background-image: url(/images/Ngoc-Trinh.jpg);
     margin-left: 270px;
     border: 1px solid #e2dede;
-    margin-top: 40px;
+    margin-top: 80px;
+}
+.compo-end{
+    border: 1px solid #e2dede;
+    width: 600px;
+    height: 300px;
+    margin-left: 270px;
+}
+
+.icon-body{
+    margin-top: 18px;
+}
+.heart-body{
+    margin-left: 13px;
+}
+.comment-body{
+    margin-left: 13px;
+}
+.share-body{
+    margin-left: 13px;
+}
+.book-body{
+    margin-left: 550px;
+    position: relative;
+    top: -30px;
+}
+
+.com-body{
+    position: relative;
+    top: -10px;
+}
+.count{
+    margin-left: 13px;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.see-com{
+    margin-left: 13px;
+    font-size: 14px;
+    
+}
+
+.time{
+    margin-left: 13px;
+    font-size: 12px;
+    margin-top: 5px;
+    color: gray;
 }

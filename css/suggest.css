@@ -1,0 +1,129 @@
+.suggest{
+    margin-left: 930px;
+    margin-top: -840px;
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    border: 1px solid #ececec;
+    background-image: url(/images/Myprofile.JPG);
+    background-position: center;
+    background-size: cover;
+    position: fixed;
+}
+.suggest-pro{
+    margin-left: 70px;
+    width: 110px;
+}
+.suggest-name{
+    color: grey;
+    font-size: 12px;
+}
+
+.suggest-peo{
+    border: 1px solid #dedcdc;
+    height: 250px;
+    width: 300px;
+    margin-top: 50px;
+
+}
+.peo{
+    margin-top: 10px;
+    height: 30px;
+}
+.hint{
+    margin-left: 15px;
+    font-size: 14px;
+    color: grey;
+}
+.all{
+    font-size: 12px;
+    margin-left: 120px;
+    font-weight: bold;
+}
+
+.peo-pro-avt{
+    margin-left: 15px;
+    margin-top: 10px;
+    border: 1px solid #dedcdc;
+    height: 30px;
+    width: 30px;
+    border-radius: 16px;
+    background-position: center;
+    background-size: contain;
+}
+.avt1{
+    background-image: url(/images/ronaldo.jpg);
+}
+.avt2{
+    background-image: url(/images/messi.jpg);
+}
+.avt3{
+    background-image: url(/images/yan.png);
+}
+.avt4{
+    background-image: url(/images/dongnhi.jpg);
+}
+
+.peo-pro-name{
+    margin-left: 40px;
+    position: relative;
+    top: -6px;
+    width: 250px;
+}
+
+.more-follow{
+    font-size: 12px;
+    color: grey;
+    position: relative;
+    top: -15px;
+    margin-left: 55px;
+}
+.more-other{
+    font-size: 12px;
+    color: grey;
+    position: relative;
+    top: -45px;
+    margin-left: 55px;
+}
+.follow{
+    margin-left: 235px;
+    font-size: 12px;
+    position: relative;
+    top: -45px;
+    color: #3a71ef;
+}
+.follow-other{
+    margin-left: 235px;
+    font-size: 12px;
+    position: relative;
+    top: -75px;
+    color: #3a71ef;
+}
+
+.pro-other{
+    position: relative;
+    top: -30px;
+}
+
+.pro-other1{
+    position: relative;
+    top: -60px;
+}
+.more-other1{
+    font-size: 12px;
+    color: grey;
+    position: relative;
+    top: -75px;
+    margin-left: 55px;
+}
+.follow-other1{
+    margin-left: 235px;
+    font-size: 12px;
+    position: relative;
+    top: -100px;
+    color: #3a71ef;
+}
+
+.peo-last{
+    margin-top: -25px;
+}

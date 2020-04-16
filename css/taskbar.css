@@ -2,9 +2,10 @@ body{
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
 }
 .main{
-    background-color: #f8f8f8;;
-    height: 10000px;
+    background-color: #f8f8f8;
+    height: 8500px;
     width: 100%;
+    
 }
 
 .taskbar{
@@ -30,17 +31,21 @@ body{
 }
 
 
-.bor-input{
+/* .bor-input{
     border: 1px solid #d5d1d1;
     height: 22px;
     width: 210px;
     margin-left: 230px;
     text-align: center;
-}
+} */
 .find{
     color: #b4aeae;
     font-size: 15px;
     font-family: inherit;
+    border: 1px solid #b4aeae;
+    margin-left: 230px;
+    text-align: center;
+    width: 210px;
 }
 
 .icon{

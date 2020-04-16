@@ -16,7 +16,6 @@
     margin-top: 10px;
     border-radius: 15px;
     margin-left: 15px;
-    background-image: url(/images/Ngoc-Trinh-avt.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -29,24 +28,101 @@
     color: black;
 }
 .more{
-    margin-left: 420px;
+   margin-left: 420px;
     margin-top: 10px;
 }
 
 .compo-body{
     width: 600px;
     height: 600px;
-    background-image: url(/images/Ngoc-Trinh.jpg);
     margin-left: 270px;
     border: 1px solid #e2dede;
     margin-top: 80px;
+    background-position: center;
+    background-size: cover;
+}
+.avtcompo1{
+    background-image: url(/images/Ngoc-Trinh-avt.jpg);
+}
+.img1{
+    background-image: url(/images/Ngoc-Trinh.jpg);
+}
+.avtcompo2{
+    background-image: url(/images/bikip-avt.jpg);
+}
+.img2{
+    background-image: url(/images/bikipyeu.jpg);
+}
+.avtcompo3{
+    background-image: url(/images/kho-avt.jpg);
+}
+.img3{
+    background-image: url(/images/kho.jpg);
+}
+.avtcompo4{
+    background-image: url(/images/now-avt.jpg);
+}
+.img4{
+    background-image: url(/images/now.jpg);
+}
+.avtcompo5{
+    background-image: url(/images/barca-avt.png);
+}
+.img5{
+    background-image: url(/images/barca.jpg);
+}
+.avtcompo6{
+    background-image: url(/images/utd-avt.png);
+}
+.img6{
+    background-image: url(/images/utd.jpg);
+}
+.avtcompo7{
+    background-image: url(/images/bambam.jpg);
+}
+.img7{
+    background-image: url(/images/bam.jpg);
+}
+.avtcompo8{
+    background-image: url(/images/cody-avt.jpg);
+}
+.img8{
+    background-image: url(/images/cody.jpg);
+}
+.avtcompo9{
+    background-image: url(/images/cr-avt.jpg);
+}
+.img9{
+    background-image: url(/images/cris.jpg);
+}
+.avtcompo2{
+    background-image: url(/images/bikip-avt.jpg);
+}
+.img2{
+    background-image: url(/images/bikipyeu.jpg);
+}
+.avtcompo2{
+    background-image: url(/images/bikip-avt.jpg);
+}
+.img2{
+    background-image: url(/images/bikipyeu.jpg);
 }
 .compo-end{
     border: 1px solid #e2dede;
     width: 600px;
-    height: 300px;
+    height: 190px;
     margin-left: 270px;
+    border-bottom-style: none;
 }
+.input-comment{
+    border: 1px solid #e2dede;
+    height: 50px;
+    width: 596px;
+    margin-left: -1px;
+    background-color: #f8f8f8;
+    
+}
+
 
 .icon-body{
     margin-top: 18px;
@@ -88,3 +164,4 @@
     margin-top: 5px;
     color: gray;
 }
+
